@@ -1,4 +1,4 @@
-module lab8_1(din_high, din_low, dout_digit1, dout_digit_2, dout_dp1, dout_dp2, clk);
+module lab8_1(din_high, din_low, dout_digit1, dout_digit2, dout_dp1, dout_dp2, clk);
 
     input clk;
     input [3:0] din_high;
