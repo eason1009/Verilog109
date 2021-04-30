@@ -2,7 +2,7 @@ module lab8_1(din_high, din_low, dout_digit1, dout_digit_2, dout_dp1, dout_dp2, 
 
     input clk;
     input [3:0] din_high;
-    input [3:0 din_low;
+    input [3:0] din_low;
 
     output [6:0] dout_digit1;
     output [6:0] dout_digit2;
